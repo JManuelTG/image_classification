@@ -7,4 +7,5 @@
 *.webp
 *.svg
 *.ico
-features.json
+
+data/features.json
