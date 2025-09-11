@@ -1,10 +1,12 @@
 # app.py
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify,  send_file,  url_for
 from model import load_model, preprocess_image, extract_features, predict_class
 import json, numpy as np
 from scipy.spatial.distance import cosine, euclidean, cityblock
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)  # Permite todas las solicitudes CORS
 model, feature_extractor, device, classes = load_model()
 
 DB_FILE = "data/features.json"
@@ -39,6 +41,7 @@ def search_similar():
         return jsonify({'error': 'No file provided'}), 400
 
     file = request.files['file']
+    print(file)
     image_tensor = preprocess_image(file, device)
     query_vector = extract_features(feature_extractor, image_tensor).cpu().numpy()
 
@@ -59,6 +62,7 @@ def search_similar():
         manh = cityblock(query_vector, vec)
         results.append({
             "image": image_names[i],
+            "url": url_for('static', filename=f"images/archive/{image_names[i]}", _external=True),
             "cosine_similarity": float(cos_sim),
             "euclidean_distance": float(eucl),
             "manhattan_distance": float(manh)

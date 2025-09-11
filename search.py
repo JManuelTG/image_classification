@@ -2,7 +2,7 @@
 import requests
 
 API_URL = "http://127.0.0.1:5000/search"
-QUERY_IMG = "images/test6.jpg"
+QUERY_IMG = "static/images/test6.jpg"
 
 with open(QUERY_IMG, "rb") as img:
     response = requests.post(API_URL, files={"file": img})
