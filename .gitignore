@@ -9,3 +9,4 @@
 *.ico
 
 data/features.json
+data/imageMetadata.json

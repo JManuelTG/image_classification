@@ -1,0 +1,642 @@
+{
+  "Imagen1.jpg": {
+    "lat": 20.677378356266026,
+    "long": -103.34468908282913,
+    "ruta": "static/images/archive/Imagen1.jpg"
+  },
+  "Imagen2.jpg": {
+    "lat": 20.67802700845742,
+    "long": -103.34701537562707,
+    "ruta": "static/images/archive/Imagen2.jpg"
+  },
+  "Imagen3.jpg": {
+    "lat": 20.67756036172696,
+    "long": -103.35852852318347,
+    "ruta": "static/images/archive/Imagen3.jpg"
+  },
+  "Imagen4.jpg": {
+    "lat": 20.674595706580362,
+    "long": -103.38486801534194,
+    "ruta": "static/images/archive/Imagen4.jpg"
+  },
+  "Imagen5.jpg": {
+    "lat": 20.676266153489173,
+    "long": -103.34649379264957,
+    "ruta": "static/images/archive/Imagen5.jpg"
+  },
+  "Imagen6.jpg": {
+    "lat": 20.671954599807528,
+    "long": -103.3649946203595,
+    "ruta": "static/images/archive/Imagen6.jpg"
+  },
+  "Imagen7.jpg": {
+    "lat": 20.66925083477787,
+    "long": -103.3598114329752,
+    "ruta": "static/images/archive/Imagen7.jpg"
+  },
+  "Imagen8.jpg": {
+    "lat": 20.670235324665654,
+    "long": -103.37008829096925,
+    "ruta": "static/images/archive/Imagen8.jpg"
+  },
+  "Imagen9.jpg": {
+    "lat": 20.665063851747476,
+    "long": -103.39368916028546,
+    "ruta": "static/images/archive/Imagen9.jpg"
+  },
+  "Imagen10.jpg": {
+    "lat": 20.67724477337922,
+    "long": -103.34697327562708,
+    "ruta": "static/images/archive/Imagen10.jpg"
+  },
+  "Imagen11.jpg": {
+    "lat": 20.676902911481328,
+    "long": -103.33743925078389,
+    "ruta": "static/images/archive/Imagen11.jpg"
+  },
+  "Imagen12.jpg": {
+    "lat": 20.676902911481328,
+    "long": -103.33743925078389,
+    "ruta": "static/images/archive/Imagen12.jpg"
+  },
+  "Imagen13.jpg": {
+    "lat": 20.6768179824319,
+    "long": -103.33940076753719,
+    "ruta": "static/images/archive/Imagen13.jpg"
+  },
+  "Imagen14.jpg": {
+    "lat": 20.673935491870058,
+    "long": -103.35877398542394,
+    "ruta": "static/images/archive/Imagen14.jpg"
+  },
+  "Imagen15.jpg": {
+    "lat": 20.70538851897036,
+    "long": -103.39176569891661,
+    "ruta": "static/images/archive/Imagen15.jpg"
+  },
+  "Imagen16.jpg": {
+    "lat": 20.70533149644611,
+    "long": -103.39067073333794,
+    "ruta": "static/images/archive/Imagen16.jpg"
+  },
+  "Imagen17.jpg": {
+    "lat": 20.70533149644611,
+    "long": -103.39067073333794,
+    "ruta": "static/images/archive/Imagen17.jpg"
+  },
+  "Imagen18.jpg": {
+    "lat": 20.74115307011245,
+    "long": -103.29491447116453,
+    "ruta": "static/images/archive/Imagen18.jpg"
+  },
+  "Imagen19.jpg": {
+    "lat": 20.740337084208992,
+    "long": -103.31002172590266,
+    "ruta": "static/images/archive/Imagen19.jpg"
+  },
+  "Imagen20.jpg": {
+    "lat": 20.70373220186714,
+    "long": -103.39193284446496,
+    "ruta": "static/images/archive/Imagen20.jpg"
+  },
+  "Imagen21.jpg": {
+    "lat": 20.639848284008547,
+    "long": -103.31175960261524,
+    "ruta": "static/images/archive/Imagen21.jpg"
+  },
+  "Imagen22.jpg": {
+    "lat": 20.642611389970856,
+    "long": -103.31323957443887,
+    "ruta": "static/images/archive/Imagen22.jpg"
+  },
+  "Imagen23.jpg": {
+    "lat": 20.64195901059075,
+    "long": -103.31289100656889,
+    "ruta": "static/images/archive/Imagen23.jpg"
+  },
+  "Imagen24.jpg": {
+    "lat": 20.692775724272177,
+    "long": -103.34810956765817,
+    "ruta": "static/images/archive/Imagen24.jpg"
+  },
+  "Imagen25.jpg": {
+    "lat": 20.67818057864801,
+    "long": -103.34207232406749,
+    "ruta": "static/images/archive/Imagen25.jpg"
+  },
+  "Imagen26.jpg": {
+    "lat": 20.67818057864801,
+    "long": -103.34207232406749,
+    "ruta": "static/images/archive/Imagen26.jpg"
+  },
+  "Imagen27.jpg": {
+    "lat": 20.67756036172696,
+    "long": -103.35852852318347,
+    "ruta": "static/images/archive/Imagen27.jpg"
+  },
+  "Imagen28.jpg": {
+    "lat": 20.6781336653171,
+    "long": -103.34574435899161,
+    "ruta": "static/images/archive/Imagen28.jpg"
+  },
+  "Imagen29.jpg": {
+    "lat": 20.671084114888856,
+    "long": -103.34825923754993,
+    "ruta": "static/images/archive/Imagen29.jpg"
+  },
+  "Imagen30.jpg": {
+    "lat": 20.679530081018434,
+    "long": -103.35281359180453,
+    "ruta": "static/images/archive/Imagen30.jpg"
+  },
+  "Imagen31.jpg": {
+    "lat": 20.679530081018434,
+    "long": -103.35281359180453,
+    "ruta": "static/images/archive/Imagen31.jpg"
+  },
+  "Imagen32.jpg": {
+    "lat": 20.676025253360653,
+    "long": -103.34820682405616,
+    "ruta": "static/images/archive/Imagen32.jpg"
+  },
+  "Imagen33.jpg": {
+    "lat": 20.738354919876873,
+    "long": -103.38121598357372,
+    "ruta": "static/images/archive/Imagen33.jpg"
+  },
+  "Imagen34.jpg": {
+    "lat": 20.687104596771235,
+    "long": -103.35008516823326,
+    "ruta": "static/images/archive/Imagen34.jpg"
+  },
+  "Imagen35.jpg": {
+    "lat": 20.680042418822847,
+    "long": -103.3476182700818,
+    "ruta": "static/images/archive/Imagen35.jpg"
+  },
+  "Imagen36.jpg": {
+    "lat": 20.659855841956585,
+    "long": -103.34718405658883,
+    "ruta": "static/images/archive/Imagen36.jpg"
+  },
+  "Imagen37.jpg": {
+    "lat": 20.660027259543508,
+    "long": -103.34804678871048,
+    "ruta": "static/images/archive/Imagen37.jpg"
+  },
+  "Imagen38.jpg": {
+    "lat": 20.640134398848208,
+    "long": -103.31368845572842,
+    "ruta": "static/images/archive/Imagen38.jpg"
+  },
+  "Imagen39.jpg": {
+    "lat": 20.640134398848208,
+    "long": -103.31368845572842,
+    "ruta": "static/images/archive/Imagen39.jpg"
+  },
+  "Imagen40.jpg": {
+    "lat": 20.64195901059075,
+    "long": -103.31289100656889,
+    "ruta": "static/images/archive/Imagen40.jpg"
+  },
+  "Imagen41.jpg": {
+    "lat": 20.64195901059075,
+    "long": -103.31289100656889,
+    "ruta": "static/images/archive/Imagen41.jpg"
+  },
+  "Imagen42.jpg": {
+    "lat": 20.703230299024792,
+    "long": -103.39157100646892,
+    "ruta": "static/images/archive/Imagen42.jpg"
+  },
+  "Imagen43.jpg": {
+    "lat": 20.659728505595762,
+    "long": -103.34855230909017,
+    "ruta": "static/images/archive/Imagen43.jpg"
+  },
+  "Imagen44.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen44.jpg"
+  },
+  "Imagen45.jpg": {
+    "lat": 20.73772802322896,
+    "long": -103.38133065379226,
+    "ruta": "static/images/archive/Imagen45.jpg"
+  },
+  "Imagen46.jpg": {
+    "lat": 20.66664266122764,
+    "long": -103.34962800055484,
+    "ruta": "static/images/archive/Imagen46.jpg"
+  },
+  "Imagen47.jpg": {
+    "lat": 20.66664266122764,
+    "long": -103.34962800055484,
+    "ruta": "static/images/archive/Imagen47.jpg"
+  },
+  "Imagen48.jpg": {
+    "lat": 20.66664266122764,
+    "long": -103.34962800055484,
+    "ruta": "static/images/archive/Imagen48.jpg"
+  },
+  "Imagen49.jpg": {
+    "lat": 20.682115879624103,
+    "long": -103.34821256474724,
+    "ruta": "static/images/archive/Imagen49.jpg"
+  },
+  "Imagen50.jpg": {
+    "lat": 20.682115879624103,
+    "long": -103.34821256474724,
+    "ruta": "static/images/archive/Imagen50.jpg"
+  },
+  "Imagen51.jpg": {
+    "lat": 20.682115879624103,
+    "long": -103.34821256474724,
+    "ruta": "static/images/archive/Imagen51.jpg"
+  },
+  "Imagen52.jpg": {
+    "lat": 20.682115879624103,
+    "long": -103.34821256474724,
+    "ruta": "static/images/archive/Imagen52.jpg"
+  },
+  "Imagen53.jpg": {
+    "lat": 20.682115879624103,
+    "long": -103.34821256474724,
+    "ruta": "static/images/archive/Imagen53.jpg"
+  },
+  "Imagen54.jpg": {
+    "lat": 20.670761148022894,
+    "long": -103.37302064309503,
+    "ruta": "static/images/archive/Imagen54.jpg"
+  },
+  "Imagen55.jpg": {
+    "lat": 20.670761148022894,
+    "long": -103.37302064309503,
+    "ruta": "static/images/archive/Imagen55.jpg"
+  },
+  "Imagen56.jpg": {
+    "lat": 20.670456973783626,
+    "long": -103.43812360529505,
+    "ruta": "static/images/archive/Imagen56.jpg"
+  },
+  "Imagen57.jpg": {
+    "lat": 20.67409075134971,
+    "long": -103.44007625330127,
+    "ruta": "static/images/archive/Imagen57.jpg"
+  },
+  "Imagen58.jpg": {
+    "lat": 20.712087256413806,
+    "long": -103.37225977580535,
+    "ruta": "static/images/archive/Imagen58.jpg"
+  },
+  "Imagen59.jpg": {
+    "lat": 20.712087256413806,
+    "long": -103.37225977580535,
+    "ruta": "static/images/archive/Imagen59.jpg"
+  },
+  "Imagen60.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen60.jpg"
+  },
+  "Imagen61.jpg": {
+    "lat": 20.659728505595762,
+    "long": -103.34855230909017,
+    "ruta": "static/images/archive/Imagen61.jpg"
+  },
+  "Imagen62.jpg": {
+    "lat": 20.659728505595762,
+    "long": -103.34855230909017,
+    "ruta": "static/images/archive/Imagen62.jpg"
+  },
+  "Imagen63.jpg": {
+    "lat": 20.712834191713473,
+    "long": -103.37245699211603,
+    "ruta": "static/images/archive/Imagen63.jpg"
+  },
+  "Imagen66.jpg": {
+    "lat": 20.693064861490896,
+    "long": -103.35080010501692,
+    "ruta": "static/images/archive/Imagen66.jpg"
+  },
+  "Imagen67.jpg": {
+    "lat": 20.693064861490896,
+    "long": -103.35080010501692,
+    "ruta": "static/images/archive/Imagen67.jpg"
+  },
+  "Imagen68.jpg": {
+    "lat": 20.700204797172205,
+    "long": -103.392839197883,
+    "ruta": "static/images/archive/Imagen68.jpg"
+  },
+  "Imagen69.jpg": {
+    "lat": 20.700204797172205,
+    "long": -103.392839197883,
+    "ruta": "static/images/archive/Imagen69.jpg"
+  },
+  "Imagen71.jpg": {
+    "lat": 20.705365410035878,
+    "long": -103.39046390959138,
+    "ruta": "static/images/archive/Imagen71.jpg"
+  },
+  "Imagen72.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen72.jpg"
+  },
+  "Imagen73.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen73.jpg"
+  },
+  "Imagen74.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen74.jpg"
+  },
+  "Imagen75.jpg": {
+    "lat": 20.704155715826236,
+    "long": -103.39110682567603,
+    "ruta": "static/images/archive/Imagen75.jpg"
+  },
+  "Imagen76.jpg": {
+    "lat": 20.704155715826236,
+    "long": -103.39110682567603,
+    "ruta": "static/images/archive/Imagen76.jpg"
+  },
+  "Imagen77.jpg": {
+    "lat": 20.70380743203483,
+    "long": -103.39178801851602,
+    "ruta": "static/images/archive/Imagen77.jpg"
+  },
+  "Imagen78.jpg": {
+    "lat": 20.642720849884952,
+    "long": -103.31649320380679,
+    "ruta": "static/images/archive/Imagen78.jpg"
+  },
+  "Imagen79.jpg": {
+    "lat": 20.670624952940173,
+    "long": -103.34861523018402,
+    "ruta": "static/images/archive/Imagen79.jpg"
+  },
+  "Imagen80.jpg": {
+    "lat": 20.80086268082936,
+    "long": -103.45376559558868,
+    "ruta": "static/images/archive/Imagen80.jpg"
+  },
+  "Imagen81.jpg": {
+    "lat": 20.69458645652621,
+    "long": -103.37542749907334,
+    "ruta": "static/images/archive/Imagen81.jpg"
+  },
+  "Imagen82.jpg": {
+    "lat": 20.677722120214533,
+    "long": -103.34622715674605,
+    "ruta": "static/images/archive/Imagen82.jpg"
+  },
+  "Imagen83.jpg": {
+    "lat": 20.681045480590942,
+    "long": -103.34462769166304,
+    "ruta": "static/images/archive/Imagen83.jpg"
+  },
+  "Imagen84.jpg": {
+    "lat": 20.673636630339082,
+    "long": -103.3720607720905,
+    "ruta": "static/images/archive/Imagen84.jpg"
+  },
+  "Imagen85.jpg": {
+    "lat": 20.668539285480122,
+    "long": -103.35004427209066,
+    "ruta": "static/images/archive/Imagen85.jpg"
+  },
+  "Imagen86.jpg": {
+    "lat": 20.670761148022894,
+    "long": -103.37302064309503,
+    "ruta": "static/images/archive/Imagen86.jpg"
+  },
+  "Imagen87.jpg": {
+    "lat": 20.670761148022894,
+    "long": -103.37302064309503,
+    "ruta": "static/images/archive/Imagen87.jpg"
+  },
+  "Imagen88.jpg": {
+    "lat": 20.670761148022894,
+    "long": -103.37302064309503,
+    "ruta": "static/images/archive/Imagen88.jpg"
+  },
+  "Imagen89.jpg": {
+    "lat": 20.670761148022894,
+    "long": -103.37302064309503,
+    "ruta": "static/images/archive/Imagen89.jpg"
+  },
+  "Imagen90.jpg": {
+    "lat": 20.679957369619583,
+    "long": -103.34688499166313,
+    "ruta": "static/images/archive/Imagen90.jpg"
+  },
+  "Imagen91.jpg": {
+    "lat": 20.677378356266026,
+    "long": -103.34468908282913,
+    "ruta": "static/images/archive/Imagen91.jpg"
+  },
+  "Imagen92.jpg": {
+    "lat": 20.673235418900365,
+    "long": -103.36515820833732,
+    "ruta": "static/images/archive/Imagen92.jpg"
+  },
+  "Imagen93.jpg": {
+    "lat": 20.668539285480122,
+    "long": -103.35004427209066,
+    "ruta": "static/images/archive/Imagen93.jpg"
+  },
+  "Imagen95.jpg": {
+    "lat": 20.673235418900365,
+    "long": -103.36515820833732,
+    "ruta": "static/images/archive/Imagen95.jpg"
+  },
+  "Imagen96.jpg": {
+    "lat": 20.642720849884952,
+    "long": -103.31649320380679,
+    "ruta": "static/images/archive/Imagen96.jpg"
+  },
+  "Imagen97.jpg": {
+    "lat": 20.71039886284435,
+    "long": -103.41236479536767,
+    "ruta": "static/images/archive/Imagen97.jpg"
+  },
+  "Imagen98.jpg": {
+    "lat": 20.68538439004651,
+    "long": -103.35106904695942,
+    "ruta": "static/images/archive/Imagen98.jpg"
+  },
+  "Imagen99.jpg": {
+    "lat": 20.677315552251155,
+    "long": -103.34454905319821,
+    "ruta": "static/images/archive/Imagen99.jpg"
+  },
+  "Imagen100.jpg": {
+    "lat": 20.51232229051958,
+    "long": -103.40027825489764,
+    "ruta": "static/images/archive/Imagen100.jpg"
+  },
+  "Imagen101.jpg": {
+    "lat": 20.51232229051958,
+    "long": -103.40027825489764,
+    "ruta": "static/images/archive/Imagen101.jpg"
+  },
+  "Imagen102.jpg": {
+    "lat": 20.66668122679158,
+    "long": -103.40234908558246,
+    "ruta": "static/images/archive/Imagen102.jpg"
+  },
+  "Imagen103.jpg": {
+    "lat": 20.66682895792744,
+    "long": -103.39272099986422,
+    "ruta": "static/images/archive/Imagen103.jpg"
+  },
+  "Imagen104.jpg": {
+    "lat": 20.680235991218034,
+    "long": -103.34759061571214,
+    "ruta": "static/images/archive/Imagen104.jpg"
+  },
+  "Imagen105.jpg": {
+    "lat": 20.640151404294034,
+    "long": -103.31405639722217,
+    "ruta": "static/images/archive/Imagen105.jpg"
+  },
+  "Imagen106.jpg": {
+    "lat": 20.80086268082936,
+    "long": -103.45376559558868,
+    "ruta": "static/images/archive/Imagen106.jpg"
+  },
+  "Imagen107.jpg": {
+    "lat": 20.675384446384353,
+    "long": -103.3529261548935,
+    "ruta": "static/images/archive/Imagen107.jpg"
+  },
+  "Imagen108.jpg": {
+    "lat": 20.71039886284435,
+    "long": -103.41236479536767,
+    "ruta": "static/images/archive/Imagen108.jpg"
+  },
+  "Imagen109.jpg": {
+    "lat": 20.670500884764934,
+    "long": -103.34855989263602,
+    "ruta": "static/images/archive/Imagen109.jpg"
+  },
+  "Imagen110.jpg": {
+    "lat": 20.681045480590942,
+    "long": -103.34462769166304,
+    "ruta": "static/images/archive/Imagen110.jpg"
+  },
+  "Imagen111.jpg": {
+    "lat": 20.674423425587815,
+    "long": -103.36854314510713,
+    "ruta": "static/images/archive/Imagen111.jpg"
+  },
+  "Imagen112.jpg": {
+    "lat": 20.675384446384353,
+    "long": -103.3529261548935,
+    "ruta": "static/images/archive/Imagen112.jpg"
+  },
+  "Imagen113.jpg": {
+    "lat": 20.640151404294034,
+    "long": -103.31405639722217,
+    "ruta": "static/images/archive/Imagen113.jpg"
+  },
+  "Imagen114.jpg": {
+    "lat": 20.676266153489173,
+    "long": -103.34649379264957,
+    "ruta": "static/images/archive/Imagen114.jpg"
+  },
+  "Imagen115.jpg": {
+    "lat": 20.673636630339082,
+    "long": -103.3720607720905,
+    "ruta": "static/images/archive/Imagen115.jpg"
+  },
+  "Imagen116.jpg": {
+    "lat": 20.6771926282826,
+    "long": -103.3469234570805,
+    "ruta": "static/images/archive/Imagen116.jpg"
+  },
+  "Imagen117.jpg": {
+    "lat": 20.679577545329604,
+    "long": -103.34666107209034,
+    "ruta": "static/images/archive/Imagen117.jpg"
+  },
+  "Imagen118.jpg": {
+    "lat": 20.640151404294034,
+    "long": -103.31405639722217,
+    "ruta": "static/images/archive/Imagen118.jpg"
+  },
+  "Imagen119.jpg": {
+    "lat": 20.445874331266786,
+    "long": -103.43815860067112,
+    "ruta": "static/images/archive/Imagen119.jpg"
+  },
+  "Imagen120.jpg": {
+    "lat": 20.80086268082936,
+    "long": -103.45376559558868,
+    "ruta": "static/images/archive/Imagen120.jpg"
+  },
+  "Imagen121.jpg": {
+    "lat": 20.642720849884952,
+    "long": -103.31649320380679,
+    "ruta": "static/images/archive/Imagen121.jpg"
+  },
+  "Imagen122.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen122.jpg"
+  },
+  "Imagen123.jpg": {
+    "lat": 20.70380743203483,
+    "long": -103.39178801851602,
+    "ruta": "static/images/archive/Imagen123.jpg"
+  },
+  "Imagen125.jpg": {
+    "lat": 20.70380743203483,
+    "long": -103.39178801851602,
+    "ruta": "static/images/archive/Imagen125.jpg"
+  },
+  "Imagen126.jpg": {
+    "lat": 20.70380743203483,
+    "long": -103.39178801851602,
+    "ruta": "static/images/archive/Imagen126.jpg"
+  },
+  "Imagen127.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen127.jpg"
+  },
+  "Imagen128.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen128.jpg"
+  },
+  "Imagen129.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen129.jpg"
+  },
+  "Imagen131.jpg": {
+    "lat": 20.705085298765596,
+    "long": -103.39084799883601,
+    "ruta": "static/images/archive/Imagen131.jpg"
+  },
+  "Imagen132.jpg": {
+    "lat": 20.708840925613856,
+    "long": -103.39662543308472,
+    "ruta": "static/images/archive/Imagen132.jpg"
+  },
+  "Imagen133.jpg": {
+    "lat": 20.709238892996765,
+    "long": -103.39666595279022,
+    "ruta": "static/images/archive/Imagen133.jpg"
+  },
+  "Imagen134.jpg": {
+    "lat": 20.709238892996765,
+    "long": -103.39666595279022,
+    "ruta": "static/images/archive/Imagen134.jpg"
+  }
+}

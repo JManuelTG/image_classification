@@ -9,6 +9,7 @@ with open(QUERY_IMG, "rb") as img:
 
 if response.status_code == 200:
     data = response.json()
+    print(data)
     print(f"[INFO] Most similar images to {data['query_image']}:")
     for r in data["results"]:
         print(f"--> {r['image']} | Cosine: {r['cosine_similarity']:.4f} "

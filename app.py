@@ -10,6 +10,7 @@ CORS(app)  # Permite todas las solicitudes CORS
 model, feature_extractor, device, classes = load_model()
 
 DB_FILE = "data/features.json"
+DB_Images_Location = "data/imageMetadata.json"
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -54,15 +55,30 @@ def search_similar():
 
     image_names = list(feature_database.keys())
     vectors = np.array([feature_database[name] for name in image_names])
+    
+    # cargar base de features
+    try:
+        with open(DB_Images_Location, "r") as f:
+            metadata = json.load(f)
+    except FileNotFoundError:
+        return jsonify({'error': f'Feature database {DB_FILE} not found'}), 500
+
+    
 
     results = []
     for i, vec in enumerate(vectors):
+        name = image_names[i]
         cos_sim = 1 - cosine(query_vector, vec)
         eucl = euclidean(query_vector, vec)
         manh = cityblock(query_vector, vec)
+        
+        # obtener coordenadas y ruta
+        meta = metadata.get(name, {})
         results.append({
             "image": image_names[i],
             "url": url_for('static', filename=f"images/archive/{image_names[i]}", _external=True),
+            "lat": meta.get("lat"),
+            "long": meta.get("long"),
             "cosine_similarity": float(cos_sim),
             "euclidean_distance": float(eucl),
             "manhattan_distance": float(manh)
