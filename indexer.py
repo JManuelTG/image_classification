@@ -1,7 +1,7 @@
 # indexer.py
 import os, json, requests
 
-IMAGE_DIR = "images/archive"
+IMAGE_DIR = "static/images/archive"
 OUTPUT_FILE = "data/features.json"
 
 def index_images():
